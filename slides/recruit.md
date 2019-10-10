@@ -1,12 +1,17 @@
 ---
+
 marp: true
 title: 信息安全实验室招新宣讲
 description: 2019信安实验室招新
 theme: uncover
 paginate: true
+
 ---
 
-# 信息安全实验室 :lock:
+<br/>
+<br/>
+
+# :lock: 信息安全实验室
 
 —— 招新宣讲
 
@@ -16,11 +21,7 @@ paginate: true
 
 :date: 2019 / 10 
 
-
-
-
 ---
-
 
 # :see_no_evil: #TL; DR#
 
@@ -28,9 +29,12 @@ too long; didn't read
 
 ---
 
-我们是以 CTF 为主，其他信安比赛为辅的信息安全方向的学习小组。
+> 我们是以 CTF 为主，其他信安比赛为辅的信息安全方向的学习小组
 
-欢迎所有对该方向有兴趣的同学前来报名。
+<br/>
+<br/>
+
+欢迎所有对该方向有兴趣的同学前来报名 
 
 ---
 
@@ -44,22 +48,25 @@ Capture The Flag，夺旗赛
 
 <br/>
 
-CTF 是一种信息安全方向的竞赛 :underage:。
+CTF 是一种信息安全方向的竞赛 :underage:
 
-你需要在有漏洞的题目中找到最终的答案（一个字符串）。
+利用赛题漏洞 || 逆向解密 以获取目标字符串flag进而得分
 
-与 ACM 相比，CTF 涉及的知识更广、比赛时间更长（以天为单位）、中途允许查找资料、通常可以更多人数组队（因为一个人根本学不了那么多啊喂）。
+```
+ flag{y0ur_fir5t_ba6y_f1ag}
+```
+
+相较于 ACM ，CTF 涉及的知识更广、比赛时间更长（以天计算）、中途允许查找资料、通常多人组队参赛（话说一个人根本学不了那么多啊喂:sweat:）
 
 ---
 
-ZmxhZ3tUaGlzIGlzIENURiBedl59 :dizzy:
+**ZmxhZ3tUaGlzIGlzIENURiBedl59** :dizzy:
 
 ```shell
 
   % echo -n ZmxhZ3tUaGlzIGlzIENURiBedl59 | base64 -d  
 
   flag{This is CTF ^v^}
-
 
 ```
 
@@ -70,13 +77,11 @@ ZmxhZ3tUaGlzIGlzIENURiBedl59 :dizzy:
 
 ---
 
-- Misc 杂项
-- Web
-- Crypto 密码学
-- RE 逆向工程
-- Pwn 二进制
-
-
+- **Misc** 杂项
+- **Web** Web漏洞
+- **Crypto** 密码学
+- **RE** 逆向工程
+- **Pwn** 二进制漏洞
 
 ---
 
@@ -89,13 +94,12 @@ ZmxhZ3tUaGlzIGlzIENURiBedl59 :dizzy:
 ---
 
 
-# #Requirement#
+# :dress: #Requirement#
 
 ---
 
 有兴趣
 
-
 ---
 
-## Thanks.:heart:
+# Thanks.:kissing_heart:
