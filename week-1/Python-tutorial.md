@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: uncover
+theme: default
 paginate: true
 author: fky
 ---
