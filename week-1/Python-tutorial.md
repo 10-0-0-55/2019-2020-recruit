@@ -99,7 +99,7 @@ Python 不完全教程
 
 ```Python
 for i in range(15):
-    if i in [3, 5, 6, 7, 9]
+    if i in [3, 5, 6, 7, 9]:
         print(f"I got {i}!")
 ```
 
